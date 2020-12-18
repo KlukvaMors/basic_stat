@@ -4,7 +4,7 @@
 
 Автор лекций: **Anatoliy Karpov** 
 
-![Saint_Karpov](img\Saint_Karpov.png)
+![Saint_Karpov](img/Saint_Karpov.png)
 
 
 
